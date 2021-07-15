@@ -21,3 +21,15 @@
 6672 騰輝 133
 
 https://drive.google.com/drive/folders/1hv4b3gbxlXH8erLXxCvL4BsiAchORO37?usp=sharing
+
+MACD背離 + EMA50 勝率奇高
+
+股票大部分資金放2021選股 少部分放最近熱門股
+
+https://bigquant.com/wiki/doc/-uS9Ch2miDg
+
+https://www.quantconnect.com/learning/task/1/introduction-video
+
+https://github.com/vnpy/vnpy
+
+https://blog.xuite.net/revember/penalty/12207380
